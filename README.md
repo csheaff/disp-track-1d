@@ -6,3 +6,5 @@ This is a basic demonstration of 1-D displacement tracking using the conventiona
 The idea is just to explore the process and and see how various parameters effect the outcome. For this purpose I've incorported bit-depth of the signals, dynamic range, SNR, jitter, etc. 
 
 Dependencies include scipy, numpy, matplotlib - i.e. the conda root environment should work just fine.
+
+![alt text](./disp_track_1d.png)
