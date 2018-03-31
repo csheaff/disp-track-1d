@@ -7,4 +7,4 @@ The idea is just to explore the process and and see how various parameters effec
 
 Dependencies include scipy, numpy, matplotlib - i.e. the conda root environment should work just fine.
 
-![alt text](./disp_track_1d.png)
+![alt text](./main_result.png)
