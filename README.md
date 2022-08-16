@@ -8,3 +8,5 @@ The idea is just to explore the process and and see how various parameters affec
 Dependencies include scipy, numpy, matplotlib - i.e. the conda root environment should work just fine.
 
 ![alt text](./main_result.png)
+
+keywords: ultrasound, elastography, arfi
